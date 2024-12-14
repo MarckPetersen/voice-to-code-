@@ -1,1 +1,1 @@
-# voice-to-code-
+I’m working on a coding experiment where I aim to create a website using voice commands. By speaking instructions to ChatGPT, I generate the necessary code and then use GitHub for deployment. The goal is to explore how effectively I can create and publish a functioning webpage, combining voice-to-code workflows and GitHub's deployment features. It’s more of a test to push the limits of what’s possible with these tools.
